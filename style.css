@@ -1,2 +1,25 @@
 /* ваше решение здесь */
-p{color:red}
+
+
+#login{
+background-color:#778D45 ;
+}
+#registration{
+background-color: #AEC09A;
+ 
+
+}
+ .button{
+  border: none;
+  padding: 40px;
+  margin: 30px;
+  border-radius: 15px;
+  color: white;
+  font-size: xx-large ; 
+  font-family: Roboto, sans-serif;
+}
+a:hover, button:hover{
+  color:black
+}
+
+
