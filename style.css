@@ -1,25 +1,26 @@
 /* ваше решение здесь */
 
 
-#login{
-background-color:#778D45 ;
+#login {
+  background-color: #778D45;
 }
-#registration{
-background-color: #AEC09A;
- 
 
+#registration {
+  background-color: #AEC09A;
 }
- .button{
+
+.button {
   border: none;
   padding: 40px;
   margin: 30px;
   border-radius: 15px;
   color: white;
-  font-size: xx-large ; 
+  font-size: xx-large;
   font-family: Roboto, sans-serif;
-}
-a:hover, button:hover{
-  color:black
+  cursor: pointer;
 }
 
-
+a:hover,
+button:hover {
+  color: black
+}
